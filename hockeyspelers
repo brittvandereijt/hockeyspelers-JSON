@@ -1,0 +1,194 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Tom Janssen",
+      "description": "Een getalenteerde aanvaller met snelle reflexen en een goed spelinzicht.",
+      "age": 25,
+      "active": true,
+      "birthdate": "1999-04-12",
+      "imageUrl": "https://example.com/images/tom_janssen.jpg",
+      "position": "aanvaller",
+      "hobbies": ["tennis", "lezen", "films kijken"],
+      "team": {
+        "id": 101,
+        "name": "Red Lions",
+        "league": "Eredivisie",
+        "founded": 1920,
+        "stadium": "Koninklijk Hockey Stadion",
+        "imageUrl": "https://example.com/images/red_lions_logo.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sophie De Vries",
+      "description": "Een verdedigster met een sterke tackle en uitstekende passing.",
+      "age": 22,
+      "active": true,
+      "birthdate": "2002-07-08",
+      "imageUrl": "https://example.com/images/sophie_devries.jpg",
+      "position": "verdediger",
+      "hobbies": ["muziek", "yoga", "reizen"],
+      "team": {
+        "id": 102,
+        "name": "Blue Falcons",
+        "league": "Hoofdklasse",
+        "founded": 1955,
+        "stadium": "Falcon Arena",
+        "imageUrl": "https://example.com/images/blue_falcons_logo.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lucas Van Dam",
+      "description": "Een veelzijdige middenvelder met een uitstekend speloverzicht.",
+      "age": 27,
+      "active": false,
+      "birthdate": "1996-01-21",
+      "imageUrl": "https://example.com/images/lucas_vandam.jpg",
+      "position": "middenvelder",
+      "hobbies": ["gamen", "koken", "wandelen"],
+      "team": {
+        "id": 103,
+        "name": "Green Wolves",
+        "league": "Eredivisie",
+        "founded": 1980,
+        "stadium": "Wolves Park",
+        "imageUrl": "https://example.com/images/green_wolves_logo.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Emma Peeters",
+      "description": "Een betrouwbare keeper met snelle reflexen en een ijzersterk karakter.",
+      "age": 24,
+      "active": true,
+      "birthdate": "2000-11-30",
+      "imageUrl": "https://example.com/images/emma_peeters.jpg",
+      "position": "keeper",
+      "hobbies": ["schilderen", "hardlopen", "skiën"],
+      "team": {
+        "id": 104,
+        "name": "Yellow Tigers",
+        "league": "Hoofdklasse",
+        "founded": 1965,
+        "stadium": "Tiger Stadium",
+        "imageUrl": "https://example.com/images/yellow_tigers_logo.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Nick Maes",
+      "description": "Een snelle vleugelspeler die altijd voor gevaar zorgt.",
+      "age": 26,
+      "active": false,
+      "birthdate": "1998-06-15",
+      "imageUrl": "https://example.com/images/nick_maes.jpg",
+      "position": "aanvaller",
+      "hobbies": ["mountainbiken", "muziek maken", "zeilen"],
+      "team": {
+        "id": 105,
+        "name": "Black Panthers",
+        "league": "Eredivisie",
+        "founded": 1932,
+        "stadium": "Panther Arena",
+        "imageUrl": "https://example.com/images/black_panthers_logo.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Lotte Willems",
+      "description": "Een creatieve middenvelder met een uitstekend spelinzicht.",
+      "age": 23,
+      "active": true,
+      "birthdate": "2001-03-10",
+      "imageUrl": "https://example.com/images/lotte_willems.jpg",
+      "position": "middenvelder",
+      "hobbies": ["fotografie", "yoga", "lezen"],
+      "team": {
+        "id": 106,
+        "name": "White Sharks",
+        "league": "Hoofdklasse",
+        "founded": 1970,
+        "stadium": "Shark Stadium",
+        "imageUrl": "https://example.com/images/white_sharks_logo.jpg"
+      }
+},
+      {
+      "id": 7,
+      "name": "Jasper De Groot",
+      "description": "Een tactische verdediger met een sterke interceptie.",
+      "age": 28,
+      "active": true,
+      "birthdate": "1995-09-14",
+      "imageUrl": "https://example.com/images/jasper_degroot.jpg",
+      "position": "verdediger",
+      "hobbies": ["hardlopen", "vissen", "lezen"],
+      "team": {
+        "id": 107,
+        "name": "Silver Hawks",
+        "league": "Eredivisie",
+        "founded": 1990,
+        "stadium": "Hawk Arena",
+        "imageUrl": "https://example.com/images/silver_hawks_logo.jpg"
+      }
+},
+{
+      "id": 8,
+      "name": "Max Verhoeven",
+      "description": "Een snelle en behendige aanvaller met een uitstekend schot.",
+      "age": 26,
+      "active": true,
+      "birthdate": "1998-05-22",
+      "imageUrl": "https://example.com/images/max_verhoeven.jpg",
+      "position": "aanvaller",
+      "hobbies": ["basketbal", "reizen", "fotografie"],
+      "team": {
+        "id": 108,
+        "name": "Golden Eagles",
+        "league": "Hoofdklasse",
+        "founded": 1985,
+        "stadium": "Eagle Arena",
+        "imageUrl": "https://example.com/images/golden_eagles_logo.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Sarah Van Dijk",
+      "description": "Een verdedigster met een feilloos positiegevoel en sterke tackles.",
+      "age": 24,
+      "active": true,
+      "birthdate": "2000-08-17",
+      "imageUrl": "https://example.com/images/sarah_vandijk.jpg",
+      "position": "verdediger",
+      "hobbies": ["paardrijden", "muziek", "schilderen"],
+      "team": {
+        "id": 109,
+        "name": "Bronze Bears",
+        "league": "Eredivisie",
+        "founded": 1978,
+        "stadium": "Bear Den",
+        "imageUrl": "https://example.com/images/bronze_bears_logo.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Daan Meijer",
+      "description": "Een ervaren keeper met een indrukwekkende reactietijd en leiderschap.",
+      "age": 30,
+      "active": false,
+      "birthdate": "1994-02-03",
+      "imageUrl": "https://example.com/images/daan_meijer.jpg",
+      "position": "keeper",
+      "hobbies": ["golf", "koken", "vissen"],
+      "team": {
+        "id": 110,
+        "name": "Iron Rhinos",
+        "league": "Hoofdklasse",
+        "founded": 1960,
+        "stadium": "Rhino Arena",
+        "imageUrl": "https://example.com/images/iron_rhinos_logo.jpg"
+      }
+    }
+  ]
+}
