@@ -6,7 +6,7 @@
     "pageCount": 223,
     "isAvailable": true,
     "publicationDate": "1997-06-26",
-    "coverUrl": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale,dpr_1.5/jackets/9781408855652.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/HPAndThePhilosophersStone.jpg",
     "genre": "Fantasy",
     "keywords": ["magic", "wizardry", "school", "adventure"],
     "author": {
@@ -14,7 +14,7 @@
       "name": "J.K. Rowling",
       "birthYear": 1965,
       "nationality": "British",
-      "photoUrl": "https://thecreativeecho.com/wp-content/uploads/2023/11/jk-rowling.jpeg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/JKRowling.jpeg",
       "debut": "Harry Potter and the Philosopher's Stone",
       "awards": ["Nestlé Smarties Book Prize", "Hugo Award"]
     }
@@ -26,7 +26,7 @@
     "pageCount": 251,
     "isAvailable": true,
     "publicationDate": "1998-07-02",
-    "coverUrl": "https://m.media-amazon.com/images/I/818umIdoruL._AC_UF894,1000_QL80_.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/HPAndTheChamberOfSecrets.jpg",
     "genre": "Fantasy",
     "keywords": ["magic", "mystery", "school", "adventure"],
     "author": {
@@ -34,7 +34,7 @@
       "name": "J.K. Rowling",
       "birthYear": 1965,
       "nationality": "British",
-      "photoUrl": "https://thecreativeecho.com/wp-content/uploads/2023/11/jk-rowling.jpeg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/JKRowling.jpeg",
       "debut": "Harry Potter and the Philosopher's Stone",
       "awards": ["Nestlé Smarties Book Prize", "Hugo Award"]
     }
@@ -46,7 +46,7 @@
     "pageCount": 416,
     "isAvailable": true,
     "publicationDate": "2012-08-07",
-    "coverUrl": "https://m.media-amazon.com/images/I/81FE1DUxvvL._AC_UF894,1000_QL80_.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/ThroneOfGlass.jpg",
     "genre": "Fantasy",
     "keywords": ["assassin", "magic", "kingdom", "adventure"],
     "author": {
@@ -54,7 +54,7 @@
       "name": "Sarah J. Maas",
       "birthYear": 1986,
       "nationality": "American",
-      "photoUrl": "https://goodreadingmagazine.com.au/wp-content/uploads/2022/11/Sarah-J.-Maas-author-photo-book-covers-color-credit-Beowulf-Sheehan-980x1355.jpg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/SarahJMaas.jpg",
       "debut": "Throne of Glass",
       "awards": []
     }
@@ -66,7 +66,8 @@
     "pageCount": 416,
     "isAvailable": false,
     "publicationDate": "2015-05-05",
-    "coverUrl": "https://m.media-amazon.com/images/I/81RrEEMiOCL.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/ACourtOfThornesAndRoses.jpg
+",
     "genre": "Fantasy",
     "keywords": ["fae", "romance", "magic", "adventure"],
     "author": {
@@ -74,7 +75,7 @@
       "name": "Sarah J. Maas",
       "birthYear": 1986,
       "nationality": "American",
-      "photoUrl": "https://goodreadingmagazine.com.au/wp-content/uploads/2022/11/Sarah-J.-Maas-author-photo-book-covers-color-credit-Beowulf-Sheehan-980x1355.jpg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/SarahJMaas.jpg",
       "debut": "Throne of Glass",
       "awards": []
     }
@@ -86,7 +87,7 @@
   "pageCount": 520,
   "isAvailable": true,
   "publicationDate": "2020-05-05",
-  "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1734440654i/52831200.jpg",
+  "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/FromBloodAndAsh.jpg",
   "genre": "Fantasy Romance",
   "keywords": ["fantasy", "romance", "maiden", "mystery", "magic"],
   "author": {
@@ -94,7 +95,8 @@
     "name": "Jennifer L. Armentrout",
     "birthYear": 1980,
     "nationality": "American",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jennifer_Armentrout_at_BookCon_%2816059%29.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/JenniferLArmentrout.jpg
+",
     "debut": "Obsidian",
     "awards": []
   }
@@ -107,7 +109,7 @@
     "pageCount": 694,
     "isAvailable": false,
     "publicationDate": "1996-08-06",
-    "coverUrl": "https://i.harperapps.com/hcanz/covers/9780007459483/y648.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/AGameOfThrones.jpg",
     "genre": "Fantasy",
     "keywords": ["politics", "dragons", "war", "power"],
     "author": {
@@ -115,7 +117,7 @@
       "name": "George R.R. Martin",
       "birthYear": 1948,
       "nationality": "American",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Portrait_photoshoot_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards_%E2%80%93_George_R._R._Martin_%28cropped%29.jpg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/GeorgeRRMartin.jpg",
       "debut": "A Game of Thrones",
       "awards": ["Hugo Award", "Nebula Award"]
     }
@@ -127,7 +129,7 @@
     "pageCount": 768,
     "isAvailable": true,
     "publicationDate": "1998-11-16",
-    "coverUrl": "https://m.media-amazon.com/images/I/7193zyz9thL.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/AClashOfKings.jpg",
     "genre": "Fantasy",
     "keywords": ["war", "dragons", "politics", "power"],
     "author": {
@@ -135,7 +137,7 @@
       "name": "George R.R. Martin",
       "birthYear": 1948,
       "nationality": "American",
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Portrait_photoshoot_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards_%E2%80%93_George_R._R._Martin_%28cropped%29.jpg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/GeorgeRRMartin.jpg",
       "debut": "A Game of Thrones",
       "awards": ["Hugo Award", "Nebula Award"]
     }
@@ -147,7 +149,7 @@
     "pageCount": 485,
     "isAvailable": true,
     "publicationDate": "2007-03-27",
-    "coverUrl": "https://m.media-amazon.com/images/I/81tUWpvsV9L.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/CityOfBones.jpg",
     "genre": "Fantasy",
     "keywords": ["shadowhunters", "demons", "supernatural", "adventure"],
     "author": {
@@ -155,7 +157,7 @@
       "name": "Cassandra Clare",
       "birthYear": 1973,
       "nationality": "American",
-      "photoUrl": "https://shadowhunters.com/wp-content/themes/sh2015/images/cassandra-clare.jpg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/CassandraClare.jpg",
       "debut": "City of Bones",
       "awards": []
     }
@@ -167,7 +169,7 @@
     "pageCount": 524,
     "isAvailable": false,
     "publicationDate": "2008-03-25",
-    "coverUrl": "https://m.media-amazon.com/images/I/81h+pTvxRmL.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/CityOfAshes.jpg",
     "genre": "Fantasy",
     "keywords": ["shadowhunters", "demons", "supernatural", "adventure"],
     "author": {
@@ -175,7 +177,7 @@
       "name": "Cassandra Clare",
       "birthYear": 1973,
       "nationality": "American",
-      "photoUrl": "https://shadowhunters.com/wp-content/themes/sh2015/images/cassandra-clare.jpg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/CassandraClare.jpg",
       "debut": "City of Bones",
       "awards": []
     }
@@ -187,7 +189,7 @@
     "pageCount": 317,
     "isAvailable": true,
     "publicationDate": "1999-07-08",
-    "coverUrl": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale,dpr_1.5/jackets/9781408855676.jpg",
+    "coverUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesCovers/HPAndThePrizonerOfAskaban.jpg",
     "genre": "Fantasy",
     "keywords": ["magic", "prisoner", "adventure", "friendship"],
     "author": {
@@ -195,10 +197,11 @@
       "name": "J.K. Rowling",
       "birthYear": 1965,
       "nationality": "British",
-      "photoUrl": "https://thecreativeecho.com/wp-content/uploads/2023/11/jk-rowling.jpeg",
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/JKRowling.jpeg",
       "debut": "Harry Potter and the Philosopher's Stone",
       "awards": ["Nestlé Smarties Book Prize", "Hugo Award"]
     }
   }
 ]
+
 
