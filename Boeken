@@ -1,0 +1,204 @@
+[
+  {
+    "id": "BOOK-001",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "description": "The first book in the Harry Potter series where Harry discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+    "pageCount": 223,
+    "isAvailable": true,
+    "publicationDate": "1997-06-26",
+    "coverUrl": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale,dpr_1.5/jackets/9781408855652.jpg",
+    "genre": "Fantasy",
+    "keywords": ["magic", "wizardry", "school", "adventure"],
+    "author": {
+      "id": "AUTH-001",
+      "name": "J.K. Rowling",
+      "birthYear": 1965,
+      "nationality": "British",
+      "photoUrl": "https://thecreativeecho.com/wp-content/uploads/2023/11/jk-rowling.jpeg",
+      "debut": "Harry Potter and the Philosopher's Stone",
+      "awards": ["Nestlé Smarties Book Prize", "Hugo Award"]
+    }
+  },
+  {
+    "id": "BOOK-002",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "description": "The second book in the Harry Potter series, where Harry faces new threats at Hogwarts and discovers the secret of the Chamber of Secrets.",
+    "pageCount": 251,
+    "isAvailable": true,
+    "publicationDate": "1998-07-02",
+    "coverUrl": "https://m.media-amazon.com/images/I/818umIdoruL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Fantasy",
+    "keywords": ["magic", "mystery", "school", "adventure"],
+    "author": {
+      "id": "AUTH-001",
+      "name": "J.K. Rowling",
+      "birthYear": 1965,
+      "nationality": "British",
+      "photoUrl": "https://thecreativeecho.com/wp-content/uploads/2023/11/jk-rowling.jpeg",
+      "debut": "Harry Potter and the Philosopher's Stone",
+      "awards": ["Nestlé Smarties Book Prize", "Hugo Award"]
+    }
+  },
+  {
+    "id": "BOOK-003",
+    "title": "Throne of Glass",
+    "description": "Celaena Sardothien is an assassin who competes to become the king's champion in a corrupt kingdom.",
+    "pageCount": 416,
+    "isAvailable": true,
+    "publicationDate": "2012-08-07",
+    "coverUrl": "https://m.media-amazon.com/images/I/81FE1DUxvvL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Fantasy",
+    "keywords": ["assassin", "magic", "kingdom", "adventure"],
+    "author": {
+      "id": "AUTH-002",
+      "name": "Sarah J. Maas",
+      "birthYear": 1986,
+      "nationality": "American",
+      "photoUrl": "https://goodreadingmagazine.com.au/wp-content/uploads/2022/11/Sarah-J.-Maas-author-photo-book-covers-color-credit-Beowulf-Sheehan-980x1355.jpg",
+      "debut": "Throne of Glass",
+      "awards": []
+    }
+  },
+  {
+    "id": "BOOK-004",
+    "title": "A Court of Thorns and Roses",
+    "description": "Feyre discovers the faerie lands and becomes entangled in dangerous politics and romance.",
+    "pageCount": 416,
+    "isAvailable": false,
+    "publicationDate": "2015-05-05",
+    "coverUrl": "https://m.media-amazon.com/images/I/81RrEEMiOCL.jpg",
+    "genre": "Fantasy",
+    "keywords": ["fae", "romance", "magic", "adventure"],
+    "author": {
+      "id": "AUTH-002",
+      "name": "Sarah J. Maas",
+      "birthYear": 1986,
+      "nationality": "American",
+      "photoUrl": "https://goodreadingmagazine.com.au/wp-content/uploads/2022/11/Sarah-J.-Maas-author-photo-book-covers-color-credit-Beowulf-Sheehan-980x1355.jpg",
+      "debut": "Throne of Glass",
+      "awards": []
+    }
+  },
+{
+  "id": "BOOK-005",
+  "title": "From Blood and Ash",
+  "description": "Poppy is a Maiden, chosen from birth to usher in a new era, but when she meets Hawke, everything changes.",
+  "pageCount": 520,
+  "isAvailable": true,
+  "publicationDate": "2020-05-05",
+  "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1734440654i/52831200.jpg",
+  "genre": "Fantasy Romance",
+  "keywords": ["fantasy", "romance", "maiden", "mystery", "magic"],
+  "author": {
+    "id": "AUTH-003",
+    "name": "Jennifer L. Armentrout",
+    "birthYear": 1980,
+    "nationality": "American",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jennifer_Armentrout_at_BookCon_%2816059%29.jpg",
+    "debut": "Obsidian",
+    "awards": []
+  }
+}
+,
+  {
+    "id": "BOOK-006",
+    "title": "A Game of Thrones",
+    "description": "Noble families vie for control of the Iron Throne in the land of Westeros in this epic fantasy saga.",
+    "pageCount": 694,
+    "isAvailable": false,
+    "publicationDate": "1996-08-06",
+    "coverUrl": "https://i.harperapps.com/hcanz/covers/9780007459483/y648.jpg",
+    "genre": "Fantasy",
+    "keywords": ["politics", "dragons", "war", "power"],
+    "author": {
+      "id": "AUTH-004",
+      "name": "George R.R. Martin",
+      "birthYear": 1948,
+      "nationality": "American",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Portrait_photoshoot_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards_%E2%80%93_George_R._R._Martin_%28cropped%29.jpg",
+      "debut": "A Game of Thrones",
+      "awards": ["Hugo Award", "Nebula Award"]
+    }
+  },
+  {
+    "id": "BOOK-007",
+    "title": "A Clash of Kings",
+    "description": "The sequel to A Game of Thrones, the war for the Iron Throne intensifies.",
+    "pageCount": 768,
+    "isAvailable": true,
+    "publicationDate": "1998-11-16",
+    "coverUrl": "https://m.media-amazon.com/images/I/7193zyz9thL.jpg",
+    "genre": "Fantasy",
+    "keywords": ["war", "dragons", "politics", "power"],
+    "author": {
+      "id": "AUTH-004",
+      "name": "George R.R. Martin",
+      "birthYear": 1948,
+      "nationality": "American",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Portrait_photoshoot_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards_%E2%80%93_George_R._R._Martin_%28cropped%29.jpg",
+      "debut": "A Game of Thrones",
+      "awards": ["Hugo Award", "Nebula Award"]
+    }
+  },
+  {
+    "id": "BOOK-008",
+    "title": "City of Bones",
+    "description": "Clary Fray discovers the world of Shadowhunters and demons when her mother is kidnapped.",
+    "pageCount": 485,
+    "isAvailable": true,
+    "publicationDate": "2007-03-27",
+    "coverUrl": "https://m.media-amazon.com/images/I/81tUWpvsV9L.jpg",
+    "genre": "Fantasy",
+    "keywords": ["shadowhunters", "demons", "supernatural", "adventure"],
+    "author": {
+      "id": "AUTH-005",
+      "name": "Cassandra Clare",
+      "birthYear": 1973,
+      "nationality": "American",
+      "photoUrl": "https://shadowhunters.com/wp-content/themes/sh2015/images/cassandra-clare.jpg",
+      "debut": "City of Bones",
+      "awards": []
+    }
+  },
+  {
+    "id": "BOOK-009",
+    "title": "City of Ashes",
+    "description": "The sequel to City of Bones, as Clary continues her fight in the Shadow World.",
+    "pageCount": 524,
+    "isAvailable": false,
+    "publicationDate": "2008-03-25",
+    "coverUrl": "https://m.media-amazon.com/images/I/81h+pTvxRmL.jpg",
+    "genre": "Fantasy",
+    "keywords": ["shadowhunters", "demons", "supernatural", "adventure"],
+    "author": {
+      "id": "AUTH-005",
+      "name": "Cassandra Clare",
+      "birthYear": 1973,
+      "nationality": "American",
+      "photoUrl": "https://shadowhunters.com/wp-content/themes/sh2015/images/cassandra-clare.jpg",
+      "debut": "City of Bones",
+      "awards": []
+    }
+  },
+  {
+    "id": "BOOK-010",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "description": "Harry's third year at Hogwarts brings new dangers and the mysterious escaped prisoner Sirius Black.",
+    "pageCount": 317,
+    "isAvailable": true,
+    "publicationDate": "1999-07-08",
+    "coverUrl": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale,dpr_1.5/jackets/9781408855676.jpg",
+    "genre": "Fantasy",
+    "keywords": ["magic", "prisoner", "adventure", "friendship"],
+    "author": {
+      "id": "AUTH-001",
+      "name": "J.K. Rowling",
+      "birthYear": 1965,
+      "nationality": "British",
+      "photoUrl": "https://thecreativeecho.com/wp-content/uploads/2023/11/jk-rowling.jpeg",
+      "debut": "Harry Potter and the Philosopher's Stone",
+      "awards": ["Nestlé Smarties Book Prize", "Hugo Award"]
+    }
+  }
+]
+
