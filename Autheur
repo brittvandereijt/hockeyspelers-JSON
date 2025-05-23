@@ -4,7 +4,7 @@
     "name": "J.K. Rowling",
     "birthYear": 1965,
     "nationality": "British",
-    "photoUrl": "https://thecreativeecho.com/wp-content/uploads/2023/11/jk-rowling.jpeg",
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/JKRowling.jpeg",
     "debut": "Harry Potter and the Philosopher's Stone",
     "awards": ["Nestlé Smarties Book Prize", "Hugo Award"],
     "biography": "J.K. Rowling is a British author best known for writing the Harry Potter fantasy series, which has won multiple awards and sold millions of copies worldwide."
@@ -14,7 +14,7 @@
     "name": "Sarah J. Maas",
     "birthYear": 1986,
     "nationality": "American",
-    "photoUrl": "https://goodreadingmagazine.com.au/wp-content/uploads/2022/11/Sarah-J.-Maas-author-photo-book-covers-color-credit-Beowulf-Sheehan-980x1355.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/SarahJMaas.jpg",
     "debut": "Throne of Glass",
     "awards": [],
     "biography": "Sarah J. Maas is an American fantasy author known for her bestselling series Throne of Glass and A Court of Thorns and Roses."
@@ -24,7 +24,8 @@
     "name": "Jennifer L. Armentrout",
     "birthYear": 1980,
     "nationality": "American",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jennifer_Armentrout_at_BookCon_%2816059%29.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/JenniferLArmentrout.jpg
+",
     "debut": "Obsidian",
     "awards": [],
     "biography": "Jennifer L. Armentrout is an American author known for her contemporary and fantasy novels including the From Blood and Ash series."
@@ -34,7 +35,7 @@
     "name": "George R.R. Martin",
     "birthYear": 1948,
     "nationality": "American",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Portrait_photoshoot_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards_%E2%80%93_George_R._R._Martin_%28cropped%29.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/GeorgeRRMartin.jpg",
     "debut": "A Game of Thrones",
     "awards": ["Hugo Award", "Nebula Award"],
     "biography": "George R.R. Martin is an American novelist and short story writer, famous for his epic fantasy series A Song of Ice and Fire, adapted into the TV series Game of Thrones."
@@ -44,7 +45,7 @@
     "name": "Cassandra Clare",
     "birthYear": 1973,
     "nationality": "American",
-    "photoUrl": "https://shadowhunters.com/wp-content/themes/sh2015/images/cassandra-clare.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/CassandraClare.jpg",
     "debut": "City of Bones",
     "awards": [],
     "biography": "Cassandra Clare is an American author known for her young adult fantasy series The Mortal Instruments."
